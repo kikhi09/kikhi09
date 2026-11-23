@@ -1,6 +1,6 @@
 <!-- HEADER BANNER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=200&section=header&text=Rase%20Kikhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Cybersecurity%20%7C%20BCA%20Graduate&descAlignY=58&descSize=18" width="100%" alt="Rase Kikhi banner"/> <a href="https://github.com/kikhi09"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Always+Learning" alt="Typing animation" /> </a> <br/>
 
-Portfolio LinkedIn Gmail
+<div align="center"> 🔽
 
 </div>
 👨‍💻 About Me
