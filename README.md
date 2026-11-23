@@ -29,7 +29,7 @@ Personal Network Analyzer
 Monitors real-time data packets, inspects network protocols, analyzes bandwidth utilization and detects potential security anomalies across local networks.
 
 
-View Repository →
+<br><br>[View Repository →](https://github.com/kikhi09/NetGuard-Personal-Network-Analyzer)
 
 </td> <td width="50%" valign="top">
 🎙️ Emotion-Aware TTS
@@ -39,18 +39,17 @@ Multilingual Text-to-Speech using XTTS v2
 Speech synthesis with XTTS v2 fine-tuning, supporting multilingual output, custom voice cloning and expressive emotional inflection.
 
 
-View Repository →
+<br><br>[View Repository →](https://github.com/kikhi09/TTS-Voice-)
 
 </td> </tr> </table>
-🧰 Skills
-
-Python | Networking | Text-to-Speech | SQL | DBMS | C# | Graido | Mechine Learning |
+**Skills:** 
+Python · Networking · Security Analysis · Linux · Git · Gradio · Machine Learning · TTS / XTTS v2
 
 
 📊 GitHub Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kikhi09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikhi09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/> </div>
 📫 Let's Connect
-🌐 Portfolio: rasekikhi.netlify.app
-💼 LinkedIn: linkedin.com/in/rasekikhi
-📧 Email: kerasekikhi@gmail.com
+🌐 Portfolio: [rasekikhi.netlify.app](https://rasekikhi.netlify.app)
+💼 LinkedIn: [linkedin.com/in/rasekikhi](https://www.linkedin.com/in/rasekikhi)
+📧 Email: [kerasekikhi@gmail.com]
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=100&section=footer" width="100%" alt="footer"/> </div>
